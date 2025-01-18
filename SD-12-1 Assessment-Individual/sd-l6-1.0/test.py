@@ -120,4 +120,4 @@ output_array = [
         "  }"
     ]
 
-    prepare_and_assert(input_array, output_array)
+prepare_and_assert(input_array, output_array)
